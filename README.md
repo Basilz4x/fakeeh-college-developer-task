@@ -19,7 +19,8 @@ The application is built with a focus on professional software architecture, inc
 ## ✨ Features
 
 * **Secure Role-Based Authentication:** Login system for 'Admin' and 'Staff' roles.
-* **Ticket Creation & Replies:** All users can create tickets and add replies in a comment thread.
+* **Ticket Creation:** All users can create new support tickets with a title and description.
+* **Ticket Replies:** Users can communicate via a comment thread. Staff can reply to their own open tickets, while Admins have unrestricted reply access to all tickets.
 * **Role-Based Views:** Admins see all tickets, while Staff can only view their own submitted tickets.
 * **Database-Level Security:** Row Level Security (RLS) policies ensure users can only access permitted data.
 * **Admin Ticket Management:** Admins can change a ticket's status to "Closed" or re-open it.
