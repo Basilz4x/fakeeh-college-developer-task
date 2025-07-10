@@ -1,0 +1,1 @@
+enum TicketStatus { Open, Closed }
