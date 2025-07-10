@@ -122,8 +122,7 @@ To run this project on your local machine, please follow these steps:
 
 **2. Clone the Repository:**
    ```bash
-   git clone [INSERT YOUR GITHUB REPO LINK HERE]
-   cd [YOUR-PROJECT-FOLDER-NAME]
+   git clone [https://github.com/Basilz4x/fakeeh-college-developer-task]
    ```
 
 **3. Set Up Environment Variables:**
