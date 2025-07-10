@@ -10,7 +10,7 @@ The application is built with a focus on professional software architecture, inc
 
 ## 🚀 Live Deployment
 
-**Live Application Link:** [***https://courageous-genie-2815fd.netlify.app**]
+**Live Application Link:** [**https://courageous-genie-2815fd.netlify.app**]
 
 **Public GitHub Repository:** [**https://github.com/Basilz4x/fakeeh-college-developer-task**]
 
