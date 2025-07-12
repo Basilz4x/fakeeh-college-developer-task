@@ -16,6 +16,21 @@ The application is built with a focus on professional software architecture, inc
 
 ---
 
+## 🔑 Test Credentials
+
+You can use the following credentials to test the application:
+
+| Role       | Email                 | Password  |
+|------------|-----------------------|-----------|
+| 👨‍💻 Admin  | admin@fakeeh.edu.sa   | admin123  |
+| 👤 Staff   | user1@fakeeh.edu.sa   | pass123   |
+| 👤 Staff   | user2@fakeeh.edu.sa   | pass123   |
+| 👤 Staff   | user3@fakeeh.edu.sa   | pass123   |
+| 👤 Staff   | user4@fakeeh.edu.sa   | pass123   |
+| 👤 Staff   | user5@fakeeh.edu.sa   | pass123   |
+
+---
+
 ## ✨ Features
 
 * **Secure Role-Based Authentication:** Login system for 'Admin' and 'Staff' roles.
@@ -146,20 +161,6 @@ Start the application on a Chrome browser:
 ```bash
 flutter run -d chrome
 ```
----
-
-## 🔑 Test Credentials
-
-You can use the following credentials to test the application:
-
-| Role       | Email                 | Password  |
-|------------|-----------------------|-----------|
-| 👨‍💻 Admin  | admin@fakeeh.edu.sa   | admin123  |
-| 👤 Staff   | user1@fakeeh.edu.sa   | pass123   |
-| 👤 Staff   | user2@fakeeh.edu.sa   | pass123   |
-| 👤 Staff   | user3@fakeeh.edu.sa   | pass123   |
-| 👤 Staff   | user4@fakeeh.edu.sa   | pass123   |
-| 👤 Staff   | user5@fakeeh.edu.sa   | pass123   |
 
 
 
